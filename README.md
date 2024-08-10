@@ -1,0 +1,1 @@
+A basic demonstration of how to do BDD basing on features of the SafeBoda App
